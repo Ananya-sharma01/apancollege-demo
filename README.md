@@ -1,4 +1,4 @@
 # apancollege-demo
-This is my first repository
+ This is my first repository
 <br>
-Author - Ananya Sharma
+Ananya Sharma (Apna College)
